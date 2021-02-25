@@ -1,0 +1,2 @@
+D:\homework\c\project1\gameToNum\Debug\gameToNum.exe
+D:\homework\c\project1\gameToNum\Debug\gameToNum.pdb
